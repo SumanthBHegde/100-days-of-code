@@ -1,0 +1,6 @@
+Flask 
+Flask-JWT-Extended
+Flask-SQLAlchemy 
+flasgger
+pytest
+flask_swagger_ui
