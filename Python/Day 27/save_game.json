@@ -1,0 +1,8 @@
+{
+    "name": "Sumanth",
+    "health": 100,
+    "inventory": [
+        "torch"
+    ],
+    "location": "Dungeon Entrance"
+}
